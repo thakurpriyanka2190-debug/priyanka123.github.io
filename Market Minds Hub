@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="p:domain_verify" content="eb638db05e9a513d429c2aa708ff6e2f"/>
-
-<title>Market Minds Hub | Smart Finds & Ideas</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market Minds Hub</title>
 
 <meta name="description" content="Market Minds Hub - Discover trending products, smart ideas, and top Amazon finds curated from Pinterest.">
 
 <!-- Pinterest Verification -->
-<meta name="p:domain_verify" content="YOUR_CODE_HERE"/>
+<meta name="p:domain_verify" content="eb638db05e9a513d429c2aa708ff6e2f"/>
 
 <style>
 body {
@@ -193,3 +192,6 @@ footer {
 
 </body>
 </html>
+
+
+
